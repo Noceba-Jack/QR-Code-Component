@@ -62,7 +62,8 @@ The correct way to do it is:
 
 ### Useful resources
 
-- [SheCodes box-shadow generator](https://www.example.com) - This helped me create the box shadow without having to code, and then generated the code for me to paste to the element. I will definitely be using this tool again in future.
+- [SheCodes box-shadow generator](https://www.example.com) - This helped me create the box shadow without having to code, and then generated the code for me to paste to the element.
+- [SheCodes image Uploader](https://www.shecodes.io/uploads) - Allows you to upload an image from your pc to a server and provides you with a link to use that will always be available to use.
 
 ## Author
 
